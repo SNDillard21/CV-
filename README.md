@@ -1,2 +1,2 @@
-# CV-Resume
+# CV
 my cv
